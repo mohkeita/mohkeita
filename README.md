@@ -107,16 +107,6 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
----
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username= mohkeita &show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt=" mohkeita's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
-
 <!--
 **mohkeita/mohkeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
