@@ -26,6 +26,9 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
+<img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png" />
+</code>](https://www.php.net/)
+[<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
