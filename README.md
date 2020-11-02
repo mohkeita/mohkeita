@@ -97,7 +97,12 @@
 </code>](https://www.kernel.org/)
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohkeita&repo=github-readme-stats)](https://github.com/mohkeita/github-readme-stats)
+<a href="https://github.com/mohkeita/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohkeita&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **mohkeita/mohkeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
