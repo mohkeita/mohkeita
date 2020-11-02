@@ -1,5 +1,7 @@
 ### Hi there, I'm Mohamed Keita 👋
 
+## I'm a Junior Full Stack Developer !
+
 <!--
 **mohkeita/mohkeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
