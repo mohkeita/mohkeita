@@ -4,6 +4,8 @@
 
 - 🔭 I’m looking for work
 
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
 <!--
 **mohkeita/mohkeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
