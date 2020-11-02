@@ -2,6 +2,8 @@
 
 ## I'm a Junior Full Stack Developer !
 
+- 🔭 I’m looking for work
+
 <!--
 **mohkeita/mohkeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
