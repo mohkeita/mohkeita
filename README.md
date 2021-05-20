@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Keita 👋
 
-## I'm a Junior Full Stack Developer !
+## I'm a Full Stack Developer !
 
 - 🔭 I’m looking for work
 - 🌱 I’m currently learning C# / .Net
