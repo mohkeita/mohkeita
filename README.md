@@ -38,6 +38,9 @@
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/72/c-plus-plus-logo.png">
+</code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
