@@ -2,7 +2,6 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 I’m looking for work
 - 🌱 I’m currently learning Dart / Flutter
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
